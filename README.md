@@ -76,3 +76,5 @@ The project also includes the AddOrUpdateUser stored procedure, the ProcessTrans
 
 To run the project, install XAMPP, start Apache and MySQL, place the project folder inside C:\xampp\htdocs, import the real_estate_portal_db.sql file into phpMyAdmin, and open http://localhost/real_estate_portal_/ in a browser.
 
+PLEASE NAME THE FOLDER - real_estate_portal_
+
