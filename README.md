@@ -1,8 +1,8 @@
-# FINAL-PROJECT-344
+ FINAL-PROJECT-344
 This is my final project for CIS 344 Spring 26'
 
 
-#Real Estate Agency Portal
+Real Estate Agency Portal
 
 This project is a full-stack Real Estate Agency Portal built using PHP, MySQL, HTML, CSS, phpMyAdmin, and XAMPP. The website allows agents, buyers, and renters to interact with property listings through a role-based system.
 
